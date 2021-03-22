@@ -29,6 +29,8 @@
   <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
   <img align="left" alt="Php" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" />
   <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br>
 <br>
 
  ![Prashal9499's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashal9499&amp;theme=dark&amp;hide_langs_below=1)
