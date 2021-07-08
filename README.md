@@ -13,7 +13,7 @@
 ### Connect with me:
 
  [<img align="left" alt="Prashal Tarkas | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/124/124010.png" />](https://www.facebook.com/Prashal.9499/)
- [<img align="left" alt="Prashal Tarkas | LinkedIn" width="22px" src="hhttps://image.flaticon.com/icons/png/512/124/124011.png" />](https://www.linkedin.com/in/prashal9499/)
+ [<img align="left" alt="Prashal Tarkas | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/124/124011.png" />](https://www.linkedin.com/in/prashal9499/)
  [<img align="left" alt="Prashal Tarkas | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/124/124032.png"/>](https://www.instagram.com/prashal_9499/)
  [<img align="left" alt="Prashal Tarkas| Telegram" width="22px" src="https://image.flaticon.com/icons/png/512/124/124019.png"/>](https://t.me/Prashal_9499)
 <br>
