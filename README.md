@@ -12,10 +12,10 @@
 
 ### Connect with me:
 
- [<img align="left" alt="Prashal Tarkas | Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174848.svg?token=exp=1616414993~hmac=e7b77758a518356c93c53383e7b8db2f" />](https://www.facebook.com/Prashal.9499/)
- [<img align="left" alt="Prashal Tarkas | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617044029~hmac=bc55c965c5a17ed3aeb79ef515bac857" />](https://www.linkedin.com/in/prashal9499/)
- [<img align="left" alt="Prashal Tarkas | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1616414961~hmac=230c107d758f7e6feadfe59f31cd2c08"/>](https://www.instagram.com/prashal_9499/)
- [<img align="left" alt="Prashal Tarkas| Telegram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1616415535~hmac=ac274db741395077cac01da6be0a3f6b"/>](https://t.me/Prashal_9499)
+ [<img align="left" alt="Prashal Tarkas | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/124/124010.png" />](https://www.facebook.com/Prashal.9499/)
+ [<img align="left" alt="Prashal Tarkas | LinkedIn" width="22px" src="hhttps://image.flaticon.com/icons/png/512/124/124011.png" />](https://www.linkedin.com/in/prashal9499/)
+ [<img align="left" alt="Prashal Tarkas | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/124/124032.png"/>](https://www.instagram.com/prashal_9499/)
+ [<img align="left" alt="Prashal Tarkas| Telegram" width="22px" src="https://image.flaticon.com/icons/png/512/124/124019.png"/>](https://t.me/Prashal_9499)
 <br>
 
 ### Languages and Tools:
