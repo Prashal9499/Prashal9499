@@ -46,6 +46,3 @@
  ![Prashal9499's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashal9499&amp;theme=dark&amp;hide_langs_below=1)
  
  <hr />
-
-![Alt text](assets/snake.svg)
-<img src="assets/snake.svg">
