@@ -10,6 +10,8 @@
 - 📫 Mail me @ prashal09@gmail.com
 - ⚡ Fun fact: I sleep more than I am awake
 
+ <hr />
+
 ### Connect with me:
 
  [<img align="left" alt="Prashal Tarkas | Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/124/124010.png" />](https://www.facebook.com/Prashal.9499/)
@@ -17,6 +19,8 @@
  [<img align="left" alt="Prashal Tarkas | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/124/124032.png"/>](https://www.instagram.com/prashal_9499/)
  [<img align="left" alt="Prashal Tarkas| Telegram" width="22px" src="https://image.flaticon.com/icons/png/512/124/124019.png"/>](https://t.me/Prashal_9499)
 <br>
+
+ <hr />
 
 ### Languages and Tools:
 
@@ -33,8 +37,13 @@
 <br>
 <br>
 
- ![Prashal9499's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashal9499&amp;theme=dark&amp;hide_langs_below=1)
-
-<br>
+ <hr />
 
  ![Prashal9499's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashal9499&&show_icons=true&title_color=2dbff&icon_color=2dbff&text_color=e4c083&bg_color=0D1117)
+ 
+ <hr />
+ 
+ ![Prashal9499's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashal9499&amp;theme=dark&amp;hide_langs_below=1)
+ 
+ <hr />
+
